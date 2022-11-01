@@ -7,3 +7,5 @@ D3. [常見資料儲存格式介紹](https://github.com/sung-yi-wang/PyCrawlerMa
 D4. [了解 HTTP 網路基礎知識](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D004)  
 D5. [Restful API 介紹](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D005)  
 D6. [網頁架構基礎認知](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D006)  
+## 常見資料結構、檔案存取
+D7. [Python 資料結構介紹：Tuple / Set / List / Dictionary](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D007)  

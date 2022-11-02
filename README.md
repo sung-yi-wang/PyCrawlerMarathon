@@ -11,3 +11,4 @@ D6. [網頁架構基礎認知](https://github.com/sung-yi-wang/PyCrawlerMarathon
 D7. [Python 資料結構介紹：Tuple / Set / List / Dictionary](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D007)  
 D8. [Python 實作 CSV 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D008)  
 D9. [Python 實作 JSON 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D009)  
+D10. [Python 實作 XML 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D010)  

@@ -12,4 +12,5 @@ D7. [Python 資料結構介紹：Tuple / Set / List / Dictionary](https://github
 D8. [Python 實作 CSV 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D008)<br>
 D9. [Python 實作 JSON 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D009)<br>
 D10. [Python 實作 XML 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D010)<br>
-D11. [網路封包介紹](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D011)
+D11. [網路封包介紹](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D011)<br>
+D12. [瀏覽器開發者工具介紹](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D012)

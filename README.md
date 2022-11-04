@@ -11,9 +11,12 @@ D6. [網頁架構基礎認知](https://github.com/sung-yi-wang/PyCrawlerMarathon
 D7. [Python 資料結構介紹：Tuple / Set / List / Dictionary](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D007)<br>
 D8. [Python 實作 CSV 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D008)<br>
 D9. [Python 實作 JSON 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D009)<br>
-D10. [Python 實作 XML 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D010)<br>
+D10. [Python 實作 XML 檔案存取與處理](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D010)
+## 網路封包知識介紹
 D11. [網路封包介紹](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D011)<br>
 D12. [瀏覽器開發者工具介紹](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D012)<br>
 D13. 封包側錄工具介紹：Fiddler<br>
-D14. 封包發送工具介紹：Postman<br>
-D15. 盤點爬蟲套件及工具
+D14. 封包發送工具介紹：Postman
+## Python 靜態網頁爬蟲
+D15. 盤點爬蟲套件及工具<br>
+D16. [模擬 HTTP 請求：使用 Requests 套件](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D016)

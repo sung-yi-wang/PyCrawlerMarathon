@@ -15,4 +15,5 @@ D10. [Python 實作 XML 檔案存取與處理](https://github.com/sung-yi-wang/P
 D11. [網路封包介紹](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D011)<br>
 D12. [瀏覽器開發者工具介紹](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D012)<br>
 D13. 封包側錄工具介紹：Fiddler<br>
-D14. 封包發送工具介紹：Postman
+D14. 封包發送工具介紹：Postman<br>
+D15. 盤點爬蟲套件及工具

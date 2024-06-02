@@ -20,4 +20,5 @@ D14. 封包發送工具介紹：Postman
 ## Python 靜態網頁爬蟲
 D15. 盤點爬蟲套件及工具<br>
 D16. [模擬 HTTP 請求：使用 Requests 套件](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D016)<br>
-D17. [Requests 練習：使用 Requests + PIL.Image 爬取網頁圖片](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D017)
+D17. [Requests 練習：使用 Requests + PIL.Image 爬取網頁圖片](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D017)<br>
+D18. [網頁結構解析：使用網頁結構定位工具](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D018)

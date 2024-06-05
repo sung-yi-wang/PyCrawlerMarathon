@@ -23,4 +23,5 @@ D16. [模擬 HTTP 請求：使用 Requests 套件](https://github.com/sung-yi-wa
 D17. [Requests 練習：使用 Requests + PIL.Image 爬取網頁圖片](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D017)<br>
 D18. [網頁結構解析：使用網頁結構定位工具](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D018)<br>
 D19. [網頁結構解析：使用 BeautifulSoup 套件操作 CSS Selector](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D019)<br>
-D20. [網頁結構解析：使用 lxml 套件操作 XPath](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D020)
+D20. [網頁結構解析：使用 lxml 套件操作 XPath](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D020)<br>
+D21. [更多的資料爬蟲工具介紹：Grab & PyQuery](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D021)

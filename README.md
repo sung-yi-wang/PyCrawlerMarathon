@@ -26,4 +26,5 @@ D19. [網頁結構解析：使用 BeautifulSoup 套件操作 CSS Selector](https
 D20. [網頁結構解析：使用 lxml 套件操作 XPath](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D020)<br>
 D21. [更多的資料爬蟲工具介紹：Grab & PyQuery](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D021)<br>
 D22. [使用正規表達式過濾並擷取資料](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D022)<br>
-D23. [靜態網頁爬蟲練習：ETTODAY](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D023)
+D23. [靜態網頁爬蟲練習：ETTODAY](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D023)<br>
+D24. [靜態網頁案例：PTT(批踢踢)](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D024)

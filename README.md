@@ -29,4 +29,6 @@ D22. [使用正規表達式過濾並擷取資料](https://github.com/sung-yi-wan
 D23. [靜態網頁爬蟲練習：ETTODAY](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D023)<br>
 D24. [靜態網頁案例：PTT(批踢踢)](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D024)<br>
 D25. [靜態網頁案例：Yahoo! 電影網頁](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D025)<br>
-D26. [靜態網頁案例：臺灣銀行牌告匯率](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D026)
+D26. [靜態網頁案例：臺灣銀行牌告匯率](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D026)<br>
+D27. [靜態網頁案例：Wikipedia](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D027)<br>
+D28. [動態載入網站的爬蟲策略](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D028)

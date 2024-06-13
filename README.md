@@ -26,9 +26,12 @@ D19. [網頁結構解析：使用 BeautifulSoup 套件操作 CSS Selector](https
 D20. [網頁結構解析：使用 lxml 套件操作 XPath](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D020)<br>
 D21. [更多的資料爬蟲工具介紹：Grab & PyQuery](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D021)<br>
 D22. [使用正規表達式過濾並擷取資料](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D022)<br>
+## 靜態網頁爬蟲實戰練習
 D23. [靜態網頁爬蟲練習：ETTODAY](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D023)<br>
 D24. [靜態網頁案例：PTT(批踢踢)](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D024)<br>
 D25. [靜態網頁案例：Yahoo! 電影網頁](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D025)<br>
 D26. [靜態網頁案例：臺灣銀行牌告匯率](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D026)<br>
 D27. [靜態網頁案例：Wikipedia](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D027)<br>
-D28. [動態載入網站的爬蟲策略](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D028)
+## 動態爬蟲技術介紹
+D28. [動態載入網站的爬蟲策略](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D028)<br>
+D29. [動態網頁爬蟲起手式：Selenium](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D029)

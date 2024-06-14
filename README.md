@@ -35,4 +35,5 @@ D27. [靜態網頁案例：Wikipedia](https://github.com/sung-yi-wang/PyCrawlerM
 ## 動態爬蟲技術介紹
 D28. [動態載入網站的爬蟲策略](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D028)<br>
 D29. [動態網頁爬蟲起手式：Selenium](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D029)<br>
-D30. [Selenium 物件定位 – CSS Selector](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D030)
+D30. [Selenium 物件定位 – CSS Selector](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D030)<br>
+D31. [Selenium 物件定位 – XPath](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D031)

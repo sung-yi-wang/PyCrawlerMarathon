@@ -40,4 +40,6 @@ D31. Selenium 物件定位 – XPath<br>
 D32. Selenium 模擬瀏覽行為<br>
 D33. 零代碼爬蟲自動化：Playwright
 ## 動態網頁爬蟲實戰練習
-D34. [動態網頁案例：Hahow](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D034)
+D34. [動態網頁案例：Hahow](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D034)<br>
+D35. 動態網頁案例：Linkedin<br>
+D36. [動態網頁案例：104 人力銀行](https://github.com/sung-yi-wang/PyCrawlerMarathon/tree/main/D036)
